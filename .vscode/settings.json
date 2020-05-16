@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/usr/local/bin/python3",
-    "editor.fontFamily": "inconsolata"
+    "editor.fontFamily": "jetbrains mono"
 }
